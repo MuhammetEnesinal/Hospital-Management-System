@@ -3,14 +3,14 @@ using Npgsql;
 namespace HastaneYonetimUygulamasi
 {
 
-    public partial class YönetimSistemi : Form
+    public partial class Yï¿½netimSistemi : Form
     {
         private HastaSistemi hastaSistemi;
         private DoktorSistemi doktorSistemi;
         private YoneticiSistemi yoneticiSistemi;
 
         
-        public YönetimSistemi()
+        public Yï¿½netimSistemi()
         {
             InitializeComponent();
 
@@ -22,12 +22,12 @@ namespace HastaneYonetimUygulamasi
         {
             if (hastaSistemi == null || hastaSistemi.IsDisposed)
             {
-                hastaSistemi = new HastaSistemi();  // Formu yeni oluþtur
+                hastaSistemi = new HastaSistemi();  
                 hastaSistemi.Show();
             }
             else
             {
-                // Eðer form zaten açýksa, göster
+                
                 hastaSistemi.BringToFront();
             }
         }

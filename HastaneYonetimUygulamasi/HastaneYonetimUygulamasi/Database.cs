@@ -16,7 +16,7 @@ namespace HastaneYonetimUygulamasi
         public Database()
         {
             // Bağlantı dizesini burada tanımlayın.
-            connectionString = "server=localhost; port=5432; Database=HastaneYonetim; user ID=postgres; password=enes";
+            connectionString = "server=localhost;";
         }
 
         // Veritabanı bağlantısı oluşturma

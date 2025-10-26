@@ -23,7 +23,7 @@ namespace HastaneYonetimUygulamasi
         {
             label3.Visible = false;
             string kullanici_Adi = "enes";
-            string sifre = "1334";
+            string sifre = "1234";
            
             if (kullanici_Adi == KullaniciAdTxt.Text.Trim() && sifre == SifreTxt.Text)
             {
