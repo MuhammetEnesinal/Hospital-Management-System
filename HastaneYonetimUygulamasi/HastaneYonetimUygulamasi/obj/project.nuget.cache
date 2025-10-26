@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "509tjWOus9A=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\npgsql\\9.0.1\\npgsql.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

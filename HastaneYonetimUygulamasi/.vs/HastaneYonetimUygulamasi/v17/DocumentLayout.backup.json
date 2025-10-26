@@ -1,0 +1,438 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59B73726-9325-4690-AE5C-E158387C8D1D}|HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi.csproj|c:\\users\\lenovo\\source\\repos\\hastaneyonetimuygulamasi\\hastaneyonetimuygulamasi\\doktorbilgisistemi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59B73726-9325-4690-AE5C-E158387C8D1D}|HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi.csproj|solutionrelative:hastaneyonetimuygulamasi\\doktorbilgisistemi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B73726-9325-4690-AE5C-E158387C8D1D}|HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi.csproj|C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\hastaneyonetimuygulamasi\\doktorbilgisistemi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59B73726-9325-4690-AE5C-E158387C8D1D}|HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi.csproj|solutionrelative:hastaneyonetimuygulamasi\\doktorbilgisistemi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B73726-9325-4690-AE5C-E158387C8D1D}|HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi.csproj|c:\\users\\lenovo\\source\\repos\\hastaneyonetimuygulamasi\\hastaneyonetimuygulamasi\\yoneticibilgisistemi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59B73726-9325-4690-AE5C-E158387C8D1D}|HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi.csproj|solutionrelative:hastaneyonetimuygulamasi\\yoneticibilgisistemi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B73726-9325-4690-AE5C-E158387C8D1D}|HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi.csproj|C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\hastaneyonetimuygulamasi\\yoneticibilgisistemi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59B73726-9325-4690-AE5C-E158387C8D1D}|HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi.csproj|solutionrelative:hastaneyonetimuygulamasi\\yoneticibilgisistemi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B73726-9325-4690-AE5C-E158387C8D1D}|HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi.csproj|c:\\users\\lenovo\\source\\repos\\hastaneyonetimuygulamasi\\hastaneyonetimuygulamasi\\yoneticisistemi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59B73726-9325-4690-AE5C-E158387C8D1D}|HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi.csproj|solutionrelative:hastaneyonetimuygulamasi\\yoneticisistemi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B73726-9325-4690-AE5C-E158387C8D1D}|HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi.csproj|C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\hastaneyonetimuygulamasi\\yoneticisistemi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59B73726-9325-4690-AE5C-E158387C8D1D}|HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi.csproj|solutionrelative:hastaneyonetimuygulamasi\\yoneticisistemi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B73726-9325-4690-AE5C-E158387C8D1D}|HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi.csproj|c:\\users\\lenovo\\source\\repos\\hastaneyonetimuygulamasi\\hastaneyonetimuygulamasi\\hastasistemi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59B73726-9325-4690-AE5C-E158387C8D1D}|HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi.csproj|solutionrelative:hastaneyonetimuygulamasi\\hastasistemi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B73726-9325-4690-AE5C-E158387C8D1D}|HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi.csproj|C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\hastaneyonetimuygulamasi\\hastasistemi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59B73726-9325-4690-AE5C-E158387C8D1D}|HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi.csproj|solutionrelative:hastaneyonetimuygulamasi\\hastasistemi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B73726-9325-4690-AE5C-E158387C8D1D}|HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi.csproj|c:\\users\\lenovo\\source\\repos\\hastaneyonetimuygulamasi\\hastaneyonetimuygulamasi\\hastakay\u0131t.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59B73726-9325-4690-AE5C-E158387C8D1D}|HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi.csproj|solutionrelative:hastaneyonetimuygulamasi\\hastakay\u0131t.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B73726-9325-4690-AE5C-E158387C8D1D}|HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi.csproj|C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\hastaneyonetimuygulamasi\\hastakay\u0131t.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59B73726-9325-4690-AE5C-E158387C8D1D}|HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi.csproj|solutionrelative:hastaneyonetimuygulamasi\\hastakay\u0131t.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B73726-9325-4690-AE5C-E158387C8D1D}|HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi.csproj|c:\\users\\lenovo\\source\\repos\\hastaneyonetimuygulamasi\\hastaneyonetimuygulamasi\\hastabilgiguncelleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59B73726-9325-4690-AE5C-E158387C8D1D}|HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi.csproj|solutionrelative:hastaneyonetimuygulamasi\\hastabilgiguncelleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B73726-9325-4690-AE5C-E158387C8D1D}|HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi.csproj|C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\hastaneyonetimuygulamasi\\hastabilgiguncelleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59B73726-9325-4690-AE5C-E158387C8D1D}|HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi.csproj|solutionrelative:hastaneyonetimuygulamasi\\hastabilgiguncelleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B73726-9325-4690-AE5C-E158387C8D1D}|HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi.csproj|c:\\users\\lenovo\\source\\repos\\hastaneyonetimuygulamasi\\hastaneyonetimuygulamasi\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59B73726-9325-4690-AE5C-E158387C8D1D}|HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi.csproj|solutionrelative:hastaneyonetimuygulamasi\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B73726-9325-4690-AE5C-E158387C8D1D}|HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi.csproj|C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\hastaneyonetimuygulamasi\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59B73726-9325-4690-AE5C-E158387C8D1D}|HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi.csproj|solutionrelative:hastaneyonetimuygulamasi\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B73726-9325-4690-AE5C-E158387C8D1D}|HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi.csproj|c:\\users\\lenovo\\source\\repos\\hastaneyonetimuygulamasi\\hastaneyonetimuygulamasi\\doktorsistemi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59B73726-9325-4690-AE5C-E158387C8D1D}|HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi.csproj|solutionrelative:hastaneyonetimuygulamasi\\doktorsistemi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B73726-9325-4690-AE5C-E158387C8D1D}|HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi.csproj|C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\hastaneyonetimuygulamasi\\doktorsistemi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59B73726-9325-4690-AE5C-E158387C8D1D}|HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi.csproj|solutionrelative:hastaneyonetimuygulamasi\\doktorsistemi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B73726-9325-4690-AE5C-E158387C8D1D}|HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi.csproj|c:\\users\\lenovo\\source\\repos\\hastaneyonetimuygulamasi\\hastaneyonetimuygulamasi\\doktorkayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59B73726-9325-4690-AE5C-E158387C8D1D}|HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi.csproj|solutionrelative:hastaneyonetimuygulamasi\\doktorkayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B73726-9325-4690-AE5C-E158387C8D1D}|HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi.csproj|C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\hastaneyonetimuygulamasi\\doktorkayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59B73726-9325-4690-AE5C-E158387C8D1D}|HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi.csproj|solutionrelative:hastaneyonetimuygulamasi\\doktorkayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B73726-9325-4690-AE5C-E158387C8D1D}|HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi.csproj|C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\hastaneyonetimuygulamasi\\doktorbilgiguncelleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59B73726-9325-4690-AE5C-E158387C8D1D}|HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi.csproj|solutionrelative:hastaneyonetimuygulamasi\\doktorbilgiguncelleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B73726-9325-4690-AE5C-E158387C8D1D}|HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi.csproj|c:\\users\\lenovo\\source\\repos\\hastaneyonetimuygulamasi\\hastaneyonetimuygulamasi\\doktorbilgiguncelleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59B73726-9325-4690-AE5C-E158387C8D1D}|HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi.csproj|solutionrelative:hastaneyonetimuygulamasi\\doktorbilgiguncelleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B73726-9325-4690-AE5C-E158387C8D1D}|HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi.csproj|c:\\users\\lenovo\\source\\repos\\hastaneyonetimuygulamasi\\hastaneyonetimuygulamasi\\hastabilgisistemi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59B73726-9325-4690-AE5C-E158387C8D1D}|HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi.csproj|solutionrelative:hastaneyonetimuygulamasi\\hastabilgisistemi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B73726-9325-4690-AE5C-E158387C8D1D}|HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi.csproj|C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\hastaneyonetimuygulamasi\\hastabilgisistemi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59B73726-9325-4690-AE5C-E158387C8D1D}|HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi.csproj|solutionrelative:hastaneyonetimuygulamasi\\hastabilgisistemi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B73726-9325-4690-AE5C-E158387C8D1D}|HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi.csproj|c:\\users\\lenovo\\source\\repos\\hastaneyonetimuygulamasi\\hastaneyonetimuygulamasi\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59B73726-9325-4690-AE5C-E158387C8D1D}|HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi.csproj|solutionrelative:hastaneyonetimuygulamasi\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B73726-9325-4690-AE5C-E158387C8D1D}|HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi.csproj|c:\\users\\lenovo\\source\\repos\\hastaneyonetimuygulamasi\\hastaneyonetimuygulamasi\\hastaneyonetimexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59B73726-9325-4690-AE5C-E158387C8D1D}|HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi.csproj|solutionrelative:hastaneyonetimuygulamasi\\hastaneyonetimexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B73726-9325-4690-AE5C-E158387C8D1D}|HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi.csproj|c:\\users\\lenovo\\source\\repos\\hastaneyonetimuygulamasi\\hastaneyonetimuygulamasi\\kayitexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59B73726-9325-4690-AE5C-E158387C8D1D}|HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi.csproj|solutionrelative:hastaneyonetimuygulamasi\\kayitexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B73726-9325-4690-AE5C-E158387C8D1D}|HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi.csproj|c:\\users\\lenovo\\source\\repos\\hastaneyonetimuygulamasi\\hastaneyonetimuygulamasi\\girisexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59B73726-9325-4690-AE5C-E158387C8D1D}|HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi.csproj|solutionrelative:hastaneyonetimuygulamasi\\girisexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "YoneticiSistemi.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi\\YoneticiSistemi.cs",
+              "RelativeDocumentMoniker": "HastaneYonetimUygulamasi\\YoneticiSistemi.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi\\YoneticiSistemi.cs",
+              "RelativeToolTip": "HastaneYonetimUygulamasi\\YoneticiSistemi.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T19:47:04.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "YoneticiBilgiSistemi.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi\\YoneticiBilgiSistemi.cs",
+              "RelativeDocumentMoniker": "HastaneYonetimUygulamasi\\YoneticiBilgiSistemi.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi\\YoneticiBilgiSistemi.cs",
+              "RelativeToolTip": "HastaneYonetimUygulamasi\\YoneticiBilgiSistemi.cs",
+              "ViewState": "AgIAADQCAAAAAAAAAAAcwAsCAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T19:27:40.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "YoneticiSistemi.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi\\YoneticiSistemi.cs",
+              "RelativeDocumentMoniker": "HastaneYonetimUygulamasi\\YoneticiSistemi.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi\\YoneticiSistemi.cs [Tasar\u0131m]",
+              "RelativeToolTip": "HastaneYonetimUygulamasi\\YoneticiSistemi.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:30:29.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DoktorKayit.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi\\DoktorKayit.cs",
+              "RelativeDocumentMoniker": "HastaneYonetimUygulamasi\\DoktorKayit.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi\\DoktorKayit.cs",
+              "RelativeToolTip": "HastaneYonetimUygulamasi\\DoktorKayit.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAgwIwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:25:54.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DoktorSistemi.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi\\DoktorSistemi.cs",
+              "RelativeDocumentMoniker": "HastaneYonetimUygulamasi\\DoktorSistemi.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi\\DoktorSistemi.cs",
+              "RelativeToolTip": "HastaneYonetimUygulamasi\\DoktorSistemi.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAgwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:24:20.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DoktorBilgiGuncelleme.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi\\DoktorBilgiGuncelleme.cs",
+              "RelativeDocumentMoniker": "HastaneYonetimUygulamasi\\DoktorBilgiGuncelleme.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi\\DoktorBilgiGuncelleme.cs [Tasar\u0131m]",
+              "RelativeToolTip": "HastaneYonetimUygulamasi\\DoktorBilgiGuncelleme.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:10:26.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HastaBilgiGuncelleme.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi\\HastaBilgiGuncelleme.cs",
+              "RelativeDocumentMoniker": "HastaneYonetimUygulamasi\\HastaBilgiGuncelleme.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi\\HastaBilgiGuncelleme.cs",
+              "RelativeToolTip": "HastaneYonetimUygulamasi\\HastaBilgiGuncelleme.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAYwHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:07:33.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HastaBilgiGuncelleme.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi\\HastaBilgiGuncelleme.cs",
+              "RelativeDocumentMoniker": "HastaneYonetimUygulamasi\\HastaBilgiGuncelleme.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi\\HastaBilgiGuncelleme.cs [Tasar\u0131m]",
+              "RelativeToolTip": "HastaneYonetimUygulamasi\\HastaBilgiGuncelleme.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:07:30.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DoktorBilgiGuncelleme.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi\\DoktorBilgiGuncelleme.cs",
+              "RelativeDocumentMoniker": "HastaneYonetimUygulamasi\\DoktorBilgiGuncelleme.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi\\DoktorBilgiGuncelleme.cs",
+              "RelativeToolTip": "HastaneYonetimUygulamasi\\DoktorBilgiGuncelleme.cs",
+              "ViewState": "AgIAANQAAAAAAAAAAAAgwMYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:07:16.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HastaSistemi.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi\\HastaSistemi.cs",
+              "RelativeDocumentMoniker": "HastaneYonetimUygulamasi\\HastaSistemi.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi\\HastaSistemi.cs",
+              "RelativeToolTip": "HastaneYonetimUygulamasi\\HastaSistemi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T17:30:03.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HastaSistemi.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi\\HastaSistemi.cs",
+              "RelativeDocumentMoniker": "HastaneYonetimUygulamasi\\HastaSistemi.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi\\HastaSistemi.cs [Tasar\u0131m]",
+              "RelativeToolTip": "HastaneYonetimUygulamasi\\HastaSistemi.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T17:30:02.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HastaKay\u0131t.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi\\HastaKay\u0131t.cs",
+              "RelativeDocumentMoniker": "HastaneYonetimUygulamasi\\HastaKay\u0131t.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi\\HastaKay\u0131t.cs",
+              "RelativeToolTip": "HastaneYonetimUygulamasi\\HastaKay\u0131t.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAADgv2wAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T17:29:18.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HastaKay\u0131t.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi\\HastaKay\u0131t.cs",
+              "RelativeDocumentMoniker": "HastaneYonetimUygulamasi\\HastaKay\u0131t.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi\\HastaKay\u0131t.cs [Tasar\u0131m]",
+              "RelativeToolTip": "HastaneYonetimUygulamasi\\HastaKay\u0131t.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T17:29:15.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Giris.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi\\Giris.cs",
+              "RelativeDocumentMoniker": "HastaneYonetimUygulamasi\\Giris.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi\\Giris.cs",
+              "RelativeToolTip": "HastaneYonetimUygulamasi\\Giris.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T17:26:38.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Giris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi\\Giris.cs",
+              "RelativeDocumentMoniker": "HastaneYonetimUygulamasi\\Giris.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi\\Giris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "HastaneYonetimUygulamasi\\Giris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T17:26:36.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi\\Database.cs",
+              "RelativeDocumentMoniker": "HastaneYonetimUygulamasi\\Database.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi\\Database.cs",
+              "RelativeToolTip": "HastaneYonetimUygulamasi\\Database.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T17:03:19.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GirisException.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi\\GirisException.cs",
+              "RelativeDocumentMoniker": "HastaneYonetimUygulamasi\\GirisException.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi\\GirisException.cs",
+              "RelativeToolTip": "HastaneYonetimUygulamasi\\GirisException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T16:48:00.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HastaneYonetimException.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi\\HastaneYonetimException.cs",
+              "RelativeDocumentMoniker": "HastaneYonetimUygulamasi\\HastaneYonetimException.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi\\HastaneYonetimException.cs",
+              "RelativeToolTip": "HastaneYonetimUygulamasi\\HastaneYonetimException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T16:47:55.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "KayitException.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi\\KayitException.cs",
+              "RelativeDocumentMoniker": "HastaneYonetimUygulamasi\\KayitException.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi\\KayitException.cs",
+              "RelativeToolTip": "HastaneYonetimUygulamasi\\KayitException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T16:47:50.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "YoneticiBilgiSistemi.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi\\YoneticiBilgiSistemi.cs",
+              "RelativeDocumentMoniker": "HastaneYonetimUygulamasi\\YoneticiBilgiSistemi.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi\\YoneticiBilgiSistemi.cs [Tasar\u0131m]",
+              "RelativeToolTip": "HastaneYonetimUygulamasi\\YoneticiBilgiSistemi.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T16:13:13.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoktorBilgiSistemi.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi\\DoktorBilgiSistemi.cs",
+              "RelativeDocumentMoniker": "HastaneYonetimUygulamasi\\DoktorBilgiSistemi.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi\\DoktorBilgiSistemi.cs",
+              "RelativeToolTip": "HastaneYonetimUygulamasi\\DoktorBilgiSistemi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0BAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T23:13:50.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoktorBilgiSistemi.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi\\DoktorBilgiSistemi.cs",
+              "RelativeDocumentMoniker": "HastaneYonetimUygulamasi\\DoktorBilgiSistemi.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi\\DoktorBilgiSistemi.cs [Tasar\u0131m]",
+              "RelativeToolTip": "HastaneYonetimUygulamasi\\DoktorBilgiSistemi.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T23:13:48.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DoktorSistemi.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi\\DoktorSistemi.cs",
+              "RelativeDocumentMoniker": "HastaneYonetimUygulamasi\\DoktorSistemi.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi\\DoktorSistemi.cs [Tasar\u0131m]",
+              "RelativeToolTip": "HastaneYonetimUygulamasi\\DoktorSistemi.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T23:13:43.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DoktorKayit.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi\\DoktorKayit.cs",
+              "RelativeDocumentMoniker": "HastaneYonetimUygulamasi\\DoktorKayit.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi\\DoktorKayit.cs [Tasar\u0131m]",
+              "RelativeToolTip": "HastaneYonetimUygulamasi\\DoktorKayit.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T23:13:41.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HastaBilgiSistemi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi\\HastaBilgiSistemi.cs",
+              "RelativeDocumentMoniker": "HastaneYonetimUygulamasi\\HastaBilgiSistemi.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi\\HastaBilgiSistemi.cs [Design]",
+              "RelativeToolTip": "HastaneYonetimUygulamasi\\HastaBilgiSistemi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T23:12:30.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HastaBilgiSistemi.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi\\HastaBilgiSistemi.cs",
+              "RelativeDocumentMoniker": "HastaneYonetimUygulamasi\\HastaBilgiSistemi.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\HastaneYonetimUygulamasi\\HastaneYonetimUygulamasi\\HastaBilgiSistemi.cs",
+              "RelativeToolTip": "HastaneYonetimUygulamasi\\HastaBilgiSistemi.cs",
+              "ViewState": "AgIAABoCAAAAAAAAAAAIwA4CAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T23:07:21.564Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
